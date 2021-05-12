@@ -1,0 +1,17 @@
+body {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #acb2b6;
+}
+h1 {
+    font-size: 3rem;
+    font-family: 'Fira Mono', monospace;
+}
+p {
+    font-size: 2.5rem;
+}
+.illus {
+    width: 45%;
+    margin: 25px 0;
+}

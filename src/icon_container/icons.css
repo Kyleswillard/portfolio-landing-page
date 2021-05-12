@@ -1,0 +1,44 @@
+h3 {
+    font-size: 2rem;
+}
+.card {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-radius: 15px;
+    background-color: rgba(154, 160, 163, 1);
+    filter: drop-shadow(1.5px 5px 4px #4d5051);
+}
+/* ICONS */
+.icon-container {
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+}
+a {
+    color: #1a3c76;
+    border: none;
+    filter: drop-shadow(1.5px 5px 4px #4dadfa);
+    padding: 1.25rem;
+    margin: 0 auto;
+}
+a i {
+    font-size: 8rem;
+}
+a:visited {
+    color: #1a3c76;
+}
+a:hover {
+    color: #5bea9a;
+    filter: drop-shadow(1.5px 5px 4px #5b851d);
+}
